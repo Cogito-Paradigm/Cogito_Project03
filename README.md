@@ -15,4 +15,4 @@ sungjukMng01 패키지
 학생들의 인적사항과 과목점수를
 직접 입력받은 후
 각각 저장하여 성적을 관리하는
-sungjukMng02 
+sungjukMng02 패키지
